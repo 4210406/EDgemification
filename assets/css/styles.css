@@ -46,7 +46,7 @@ h1,p,ul{
 ul{
   padding: 0;
   list-style: none;
-  color: #FCF8F8;
+  color: var(--white-color);
 }
 
 a{
